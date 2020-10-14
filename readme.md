@@ -18,9 +18,9 @@ Selamat berkontribusi untuk ummat!
 
 ## Index Bacaan
 
-[Kata Pengantar & Daftar Isi](render/00_kata_pengantar_daftar_isi.pdf)
-[Bab 1](render/01_bab_1.pdf)
+- [Kata Pengantar & Daftar Isi](render/00_kata_pengantar_daftar_isi.pdf)
 
+- [Bab 1](render/01_bab_1.pdf)
 
 - on going projects...
 
