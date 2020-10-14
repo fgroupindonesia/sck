@@ -14,3 +14,14 @@ Nama Buku ini kemudian disingkat menjadi **SCK**
 Selamat berkontribusi untuk ummat!
 
 (c) FGroupIndonesia, 2020.
+
+
+## Index Bacaan
+
+[Kata Pengantar & Daftar Isi](render/00_kata_pengantar_daftar_isi.pdf)
+[Bab 1](render/01_bab_1.pdf)
+
+
+- on going projects...
+
+

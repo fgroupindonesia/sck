@@ -1,4 +1,4 @@
 git add .
-git commit -m "adding new BAB-2: Kerikil."
+git commit -m "adding new Index Bacaan."
 git push origin main
 git gc --prune
