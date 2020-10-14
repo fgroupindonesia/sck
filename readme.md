@@ -1,5 +1,5 @@
 
-![Preview](images/cover_book.png)
+![Preview](images/cover-1.png)
 
 ## Welcome
 
