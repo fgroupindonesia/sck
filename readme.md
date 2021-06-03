@@ -11,9 +11,9 @@ Bagian ini merupakan salah satu kumpulan kerja dari klub menulis FGroupIndonesia
 
 Nama Buku ini kemudian disingkat menjadi **SCK**
 
-Selamat berkontribusi untuk ummat!
+Selamat berkontribusi untuk ummat dimulai hari ini!
 
-(c) FGroupIndonesia, 2020.
+(c) FGroupIndonesia, 2020-2021.
 
 
 ## Index Bacaan

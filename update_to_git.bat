@@ -1,4 +1,4 @@
 git add .
-git commit -m "adding Chapter 3: Efektifitas."
+git commit -m "updating readme."
 git push origin main
 git gc --prune
